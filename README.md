@@ -12,6 +12,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Recording management and storage
 - Shortcut and configuration options
 - Material Design UI
+- Secret recording via volume button shortcut
 
 ## Development
 
