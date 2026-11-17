@@ -14,6 +14,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Material Design UI
 - Secret recording via volume button shortcut
 
+## Releases
+
+Latest APK: [v1.0.0](https://github.com/SABIR7718/ShadowCap/releases/tag/v1.0.0)
+
 ## Development
 
 This is an Android project using Kotlin and Gradle.
