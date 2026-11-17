@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShadowCap</string>
+    <string name="accessibility_service_label">ShadowCap Volume Keys</string>
+    <string name="accessibility_service_desc">Detects volume key combinations to trigger background audio and video recording.</string>
+    <string name="notif_channel_name">Recording</string>
+    <string name="notif_title">Audio recording in progress</string>
+    <string name="notif_text">Tap to open ShadowCap</string>
+    <string name="stop_action">Stop</string>
+</resources>

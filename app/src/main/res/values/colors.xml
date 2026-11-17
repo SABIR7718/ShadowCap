@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="void_black">#0B0B10</color>
+    <color name="void_surface">#12121A</color>
+    <color name="void_card">#1C1C28</color>
+    <color name="void_accent">#7C6BFF</color>
+    <color name="void_accent_dim">#4A3F9E</color>
+    <color name="void_purple">#B24BF3</color>
+    <color name="void_red">#FF4D6A</color>
+    <color name="void_green">#00E676</color>
+    <color name="void_text_primary">#F0F0F8</color>
+    <color name="void_text_secondary">#8A8AA8</color>
+    <color name="white">#FFFFFF</color>
+</resources>
